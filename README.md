@@ -1,4 +1,4 @@
-# UFO-ML-density-based-clusering
+# UFO-ML-density-based-clustering
 Density-based Clustering locates regions of high density that are separated from one another by regions of low density. Density, in this context, is defined as the number of UFO sightings done all across globe.
 ```python
 # This Python 3 environment comes with many helpful analytics libraries installed
